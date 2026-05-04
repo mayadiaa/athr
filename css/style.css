@@ -2288,6 +2288,19 @@ padding: 2rem 13%
     height: 684px;
     padding-top: 144px;
 }
+.switcher {    
+    height: min(720px, 88vh);
+    background: #082d27 !important;
+    border: 1px solid var(--stroke);
+    border-radius: var(--radius);
+    box-shadow: 0 34px 90px rgba(0, 0, 0, .5);
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: none !important;
+    grid-template-areas: "visual content";
+    transition: grid-template-columns .5s ease, grid-template-areas .5s ease;
+}
+  
   .header {
     height: 6rem
   }
