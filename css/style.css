@@ -2265,7 +2265,7 @@ padding: 2rem 13%
     position: absolute;
     right: 10px;
     top: 26px;
-    background: #00bfe7;
+    background: #C4A863;
     margin-top: 2rem;
   }
 
@@ -2284,6 +2284,10 @@ padding: 2rem 13%
     margin-bottom: 50px;
   }
 
+  .hero__item {
+    height: 684px;
+    padding-top: 144px;
+}
   .header {
     height: 6rem
   }
@@ -2393,14 +2397,14 @@ padding: 2rem 13%
   }
 
   .slicknav_nav {
-    background: #08103c;
+    background: #1C5949;
   }
 
   .slicknav_btn {
     position: absolute;
     right: 10px;
     top: 26px;
-    background: #00bfe7;
+    background: #8D6E27;
   }
 
   .header .container {
